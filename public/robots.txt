@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hotelsuryapride.com/sitemap.xml
+
